@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.resource     = 'PGDatePicker/PGDatePicker.bundle'
   s.frameworks   = "UIKit"
   s.requires_arc = true
-  s.dependency 'PGPickerView', :path => "https://github.com/Libogold/PGPickerView.git"
+  
 end
  
  
